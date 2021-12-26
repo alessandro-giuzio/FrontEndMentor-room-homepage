@@ -193,6 +193,8 @@ body {
   text-decoration: none;
   color: inherit;
   transition: color;
+  text-transform: lowercase;
+  font-weight: 500;
 }
 
 .menu-wrap .menu > div > div > ul > li > a:hover {
